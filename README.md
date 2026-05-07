@@ -1,4 +1,4 @@
-**Développeur Full Stack · Étudiant en Génie Informatique @ UdeS**
+# **Développeur Full Stack · Étudiant en Génie Informatique @ UdeS**
 
 Passionné par l'architecture logicielle, les systèmes embarqués et l'automatisation. Plus de 3 ans d'expérience professionnelle en développement web et desktop. J'aime autant coder une interface React que programmer un Arduino.
 
