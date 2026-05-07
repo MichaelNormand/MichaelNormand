@@ -43,12 +43,14 @@ Passionné par l'architecture logicielle, les systèmes embarqués et l'automati
 
 ## 🏆 Projets marquants
 
-### 🎮 TweeHunter
+### 🎮 [TweeHunter](https://github.com/LES-SWINCEUX/TweeHunter)
 Jeu développé en **C++ / SDL3 / Qt** avec gestion des scores, configuration persistante via le Registre Windows, et support gamepad (vibration, inputs).
 
 ### 🤖 Jeu d'anneaux connecté — Méga GÉNIALE `🥇 1er prix du public · 2025`
 Jeu physique interactif combinant un robot en mouvement et un système de points en temps réel.
 **Stack :** Arduino · ESP32 · React.js · WebSocket
+
+> 📦 Repos : [SwinceBot](https://github.com/LES-SWINCEUX/SwinceBot) · [BotsComs](https://github.com/LES-SWINCEUX/BotsComs) · [WebPlatform](https://github.com/LES-SWINCEUX/WebPlatform)
 
 ### 🦾 Bras robotisé télécommandé — Expo SAT `🏅 Bourse technologique + Prix du public · 2018`
 Bras robotisé contrôlable par un exosquelette de main miniature.
