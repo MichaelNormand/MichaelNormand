@@ -44,8 +44,10 @@ Passionné par l'architecture logicielle, les systèmes embarqués et l'automati
 
 ## 🏆 Projets marquants
 
-### 🎮 [TweeHunter](https://github.com/LES-SWINCEUX/TweeHunter)
+### 🎮 TweeHunter
 Jeu développé en **C++ / SDL3 / Qt** avec gestion des scores, configuration persistante via le Registre Windows, et support gamepad (vibration, inputs).
+
+> 📦 Repos : [TweeHunter](https://github.com/LES-SWINCEUX/TweeHunter)
 
 ### 🤖 Jeu d'anneaux connecté — Méga GÉNIALE `🥇 1er prix du public · 2025`
 Jeu physique interactif combinant un robot en mouvement et un système de points en temps réel.
